@@ -319,7 +319,7 @@ SDL_Texture* create_roto_badge(SDL_Renderer* renderer) {
 }
 
 void print_help() {
-    printf("Usage: ./demo [options]\n");
+    printf("Usage: ./infinite-3d-floor [options]\n");
     printf("Options:\n");
     printf("  -w <width>       Set screen width (default: 1280)\n");
     printf("  -h <height>      Set screen height (default: 720)\n");
