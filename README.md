@@ -8,7 +8,7 @@ Chiptune track provided by [CallRoll](https://archive.org/details/free-chiptune-
 
 ## Required:
 ```bash
-sudo apt-get install sdl2 sdl2-mixer
+sudo apt-get install build-essential libsdl2-dev libsdl2-mixer-dev
 ```
 
 Usage:
