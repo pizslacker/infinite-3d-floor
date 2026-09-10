@@ -23,4 +23,4 @@ $ ./infinite-3d-floor -f / --fullscreen /  -w 1280 -h 720 / --width 1280 --heigh
 - **"Copper" Raster Text + Shimmering Water Reflection**: horizontal scrolling "copper" raster text, computing a second set of inverted pixels rendered below the text, then applying high-frequency trigonometry to create a shimmering water effect.
 - **"Copper" Raster Bars**: classic Amiga "Copper" raster bar effect, we draw thick, horizontal gradients that sweep up and down the Y-axis using overlapping sine waves.
 
-![infinite-3d-floor](images/infinite-3d-floor.png)
+![infinite-3d-floor](images/infinite-3d-floor-c.png)
