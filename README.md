@@ -1,6 +1,6 @@
 # infinite-3d-floor (C/SDL2)
 
-A personal challenge porting yet another demoscene'ish (_**cracktro**_) program from `Python3/PyGame` to `C` using `SDL2`, showing off classic Amiga "_infinite floor_" graphics effect, with accompanying scrolling copper raster text with water shimmering and a bouncing Boing Ball, **On Linux** :P
+A personal challenge porting yet another demoscene'ish (_**cracktro**_) program from `Python3/PyGame` to `C` using `SDL2`, showing off classic Amiga "_infinite floor_" perspective graphics effect, with accompanying scrolling copper raster text with water shimmering and a bouncing Boing Ball, **On Linux** :P
 
 Demo video: https://www.youtube.com/watch?v=eFkla13gWOc
 
