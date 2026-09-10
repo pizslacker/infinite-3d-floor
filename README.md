@@ -2,6 +2,8 @@
 
 A personal challenge porting yet another demoscene'ish (_**cracktro**_) program from `Python3/PyGame` to `C` using `SDL2`, showing off classic Amiga "_infinite floor_" graphics effect, with accompanying scrolling copper raster text with water shimmering and a bouncing Boing Ball, **On Linux** :P
 
+Demo video: https://www.youtube.com/watch?v=eFkla13gWOc
+
 Should work on any Linux distribution (or Windows for that matter) that has `SDL2` + `SDL2-Mixer`.
 
 Chiptune track provided by [CallRoll](https://archive.org/details/free-chiptune-collection-for-game-usage) (`Track01.wav`).
