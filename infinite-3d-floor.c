@@ -279,7 +279,7 @@ void draw_text_to_buffer(Uint32* buffer, const char* text, int x, int y, int sca
     }
 }
 
-// Generates the glassy checkerboard "k ! M" badge
+// Generates the glassy checkerboard "k ! M" badge rotozoomer
 SDL_Texture* create_roto_badge(SDL_Renderer* renderer) {
     Uint32* pixels = (Uint32*)malloc(TEX_SIZE * TEX_SIZE * sizeof(Uint32));
 
